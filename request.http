@@ -1,0 +1,7 @@
+POST http://localhost:4004/odata/v4/identity/SampleData
+Content-Type: application/json
+
+{
+  "ID": "33333333-3333-3333-3333-33333333338",
+  "name": "Only Auto-Generate"
+}
